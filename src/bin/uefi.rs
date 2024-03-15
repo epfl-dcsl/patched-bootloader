@@ -1,6 +1,5 @@
 #![no_std]
 #![no_main]
-#![feature(abi_efiapi)]
 #![deny(unsafe_op_in_unsafe_fn)]
 
 // Defines the constants `KERNEL_BYTES` (array of `u8`) and `KERNEL_SIZE` (`usize`).
